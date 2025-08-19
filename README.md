@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👩‍💻 Paula Fernández Cañas
 
-<!--
-**paulafc30/paulafc30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy **Paula Fernández Cañas**, desarrolladora **Fullstack** con enfoque en **backend**.  
+Apasionada por crear aplicaciones web seguras, escalables y con buenas prácticas de código.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías principales
+- **Backend:** PHP (Laravel), Python (Flask/Django)
+- **Frontend:** React, TailwindCSS, Bootstrap
+- **Base de datos:** MySQL, PostgreSQL
+- **Otros:** Docker, Git, APIs REST
+
+---
+
+## 📌 Proyectos destacados
+
+### 🔒 [Secure App](https://github.com/paulafc30/secure-app)
+Aplicación web para la gestión de archivos con roles, permisos y enlaces temporales.  
+**Stack:** Laravel, Blade, Bootstrap, MySQL
+
+### 🏠 [Compiso](https://github.com/paulafc30/compiso)
+Proyecto colaborativo de TFG para la gestión de pisos compartidos con chat, valoraciones y preferencias.  
+**Stack:** PHP, MySQL, JavaScript, TailwindCSS
+
+### 🌐 [My Web](https://github.com/paulafc30/my-web)
+Portfolio personal desarrollado con React y TailwindCSS.  
+**Stack:** React, TailwindCSS, Framer Motion
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulafc30&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulafc30&layout=compact&theme=dracula)
+
+---
+
+## 📫 Contacto
+- 🌐 [Portfolio](https://paulafernandez.netlify.app)
+- 💼 [LinkedIn](https://linkedin.com/in/paulafc30)
+- ✉️ **paulafc30@gmail.com**
