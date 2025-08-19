@@ -53,9 +53,7 @@ Portfolio personal desarrollado con React y TailwindCSS.
 ---
 
 ## 🏅 Recomendación
-> *"Durante su estancia en Toomba Agencia Digital, Paula demostró una actitud proactiva, responsable y comprometida con cada una de las tareas.  
-> Se adaptó rápidamente a metodologías ágiles y al uso de herramientas como Docker y Git.  
-> Sin duda, será un activo valioso en cualquier organización que valore la iniciativa y el aprendizaje constante."*  
+> *"Durante su estancia en Toomba Agencia Digital, Paula demostró una actitud proactiva, responsable y comprometida con cada una de las tareas. Se adaptó rápidamente a metodologías ágiles y al uso de herramientas como Docker y Git. Sin duda, será un activo valioso en cualquier organización que valore la iniciativa y el aprendizaje constante."*  
 > — **Raúl Domínguez Pulido**, Senior Web Developer en Toomba
 
 ---
