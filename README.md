@@ -15,15 +15,15 @@ Apasionada por crear aplicaciones web seguras, escalables y con buenas práctica
 
 ## 📌 Proyectos destacados
 
-### 🔒 [Secure App](https://github.com/paulafc30/secure-app)
+### 🔒 [Secure App](https://github.com/paulafc30/toomba-internship)
 Aplicación web para la gestión de archivos con roles, permisos y enlaces temporales.  
 **Stack:** Laravel, Blade, Bootstrap, MySQL
 
-### 🏠 [Compiso](https://github.com/paulafc30/compiso)
+### 🏠 [Compiso](https://github.com/medelcasta/compiso)
 Proyecto colaborativo de TFG para la gestión de pisos compartidos con chat, valoraciones y preferencias.  
 **Stack:** PHP, MySQL, JavaScript, TailwindCSS
 
-### 🌐 [My Web](https://github.com/paulafc30/my-web)
+### 🌐 [My Web](https://github.com/paulafc30/my_web)
 Portfolio personal desarrollado con React y TailwindCSS.  
 **Stack:** React, TailwindCSS, Framer Motion
 
