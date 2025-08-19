@@ -1,6 +1,6 @@
-# 👩‍💻 Paula Fernández Cañas
+# 👩‍💻 Paula Fernández
 
-¡Hola! Soy **Paula Fernández Cañas**, desarrolladora **Fullstack** con enfoque en **backend**.  
+¡Hola! Soy desarrolladora **Fullstack** con enfoque en **backend**.  
 Apasionada por crear aplicaciones web seguras, escalables y con buenas prácticas de código.  
 
 ---
