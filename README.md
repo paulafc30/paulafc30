@@ -37,7 +37,7 @@ Mi meta es seguir creciendo profesionalmente y aportar valor en entornos ágiles
 
 ### 🔒 [Secure App](https://github.com/paulafc30/secure-app)
 Aplicación web para la gestión de archivos con roles, permisos y enlaces temporales.  
-**Stack:** Laravel, Blade, Bootstrap, MySQL
+**Stack:** Laravel, PHP, Blade, Bootstrap, MySQL
 
 ### 🏠 [Compiso](https://github.com/paulafc30/compiso)
 Proyecto colaborativo de TFG para la gestión de pisos compartidos con chat, valoraciones y preferencias.  
