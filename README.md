@@ -43,7 +43,7 @@ Aplicación web para la gestión de archivos con roles, permisos y enlaces tempo
 Proyecto colaborativo de TFG para la gestión de pisos compartidos con chat, valoraciones y preferencias.  
 **Stack:** PHP, MySQL, JavaScript, TailwindCSS
 
-### 🌐 [My Web](https://github.com/paulafc30/my-web)
+### 🌐 [My Web](https://github.com/paulafc30/my_web)
 Portfolio personal desarrollado con React y TailwindCSS.  
 **Stack:** React, TailwindCSS, Framer Motion
 
