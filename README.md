@@ -1,9 +1,9 @@
 # 👩‍💻 Paula Fernández Cañas
 
 Desarrolladora Fullstack Junior con foco en **backend**.  
-Me caracterizo por mi iniciativa, buena actitud y capacidad de aprender de forma autónoma —
+Me caracterizo por mi iniciativa, buena actitud y capacidad de aprender de forma autónoma 
 cualidades que me han permitido incorporarme y adaptarme rápido en entornos profesionales reales.  
-Trabajo con **Laravel, PHP, JavaScript, TypeScript, Docker y PL/SQL**, tanto en proyectos
+Trabajo con **Laravel, PHP, JavaScript, TypeScript, Docker y SQL**, tanto en proyectos
 personales como en equipos de desarrollo.  
 Actualmente ampliando conocimientos en **IA y Big Data**.
 
