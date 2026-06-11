@@ -43,22 +43,22 @@ Actualmente ampliando conocimientos en **IA y Big Data**.
 
 ## 📌 Proyectos destacados
 
-### 👗 [Mi Armario](https://github.com/paulafc30/mi_armario)
+### 👗 [Mi Armario](https://mi-armario-iota.vercel.app/)
 Aplicación para gestionar tu armario personal: registro de prendas por categoría,
 combinaciones y estadísticas de uso.  
 **Stack:** React, Node.js, TailwindCSS
 
-### 💰 [Finanzor](https://github.com/paulafc30/finanzor)
+### 💰 [Finanzor](https://finanzor.vercel.app/)
 App de control de finanzas personales con seguimiento de gastos, ingresos
 y visualización de datos.  
 **Stack:** React, Node.js, Chart.js
 
 ### 🔒 [Secure App](https://github.com/paulafc30/secure-app)
-Aplicación web para la gestión segura de archivos con roles, permisos y enlaces temporales.  
+Aplicación web para la gestión segura de archivos con roles, permisos y enlaces temporales. Realizada durante las prácticas en Toomba.  
 **Stack:** Laravel, PHP, Blade, Bootstrap, MySQL
 
 ### 🏠 [Compiso](https://github.com/paulafc30/compiso)
-Proyecto colaborativo de TFG para la gestión de pisos compartidos con chat,
+Proyecto colaborativo del TFG para la gestión de pisos compartidos con chat,
 valoraciones y preferencias de convivencia.  
 **Stack:** PHP, MySQL, JavaScript, TailwindCSS
 
