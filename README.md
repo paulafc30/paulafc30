@@ -1,4 +1,4 @@
-# 👩‍💻 Paula Fernández Cañas
+# Paula Fernández Cañas
 
 Desarrolladora Fullstack Junior con foco en **backend**.  
 Me caracterizo por mi iniciativa, buena actitud y capacidad de aprender de forma autónoma 
