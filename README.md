@@ -37,11 +37,11 @@ Mi meta es seguir creciendo profesionalmente y aportar valor en entornos ágiles
 
 ### 👗 [Mi Armario](https://github.com/paulafc30/mi_armario)
 Aplicación para gestionar tu armario personal: registro de prendas por categoría, combinaciones y estadísticas de uso. 
-Stack: React, Node.js, TailwindCSS
+**Stack:** React, Node.js, TailwindCSS
 
 ### 💰 [Finanzor](https://github.com/paulafc30/finanzor)
 App de control de finanzas personales con seguimiento de gastos, ingresos y visualización de datos. 
-Stack: React, Node.js, Chart.js
+**Stack:** React, Node.js, Chart.js
 
 ### 🔒 [Secure App](https://github.com/paulafc30/secure-app)
 Aplicación web para la gestión de archivos con roles, permisos y enlaces temporales.  
