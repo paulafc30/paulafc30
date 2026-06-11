@@ -10,7 +10,7 @@ Actualmente ampliando conocimientos en **IA y Big Data**.
 
 ## 🚀 Tecnologías principales
 
-### 🔧 Backend
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,20 +18,20 @@ Actualmente ampliando conocimientos en **IA y Big Data**.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 🗄️ Base de datos
+### Base de datos
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ⚙️ Herramientas & DevOps
+### Herramientas & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -42,26 +42,26 @@ Actualmente ampliando conocimientos en **IA y Big Data**.
 
 ## 📌 Proyectos destacados
 
-### 👗 [Mi Armario](https://mi-armario-iota.vercel.app/)
+### [Mi Armario](https://mi-armario-iota.vercel.app/)
 Aplicación para gestionar tu armario personal: registro de prendas por categoría,
 combinaciones y estadísticas de uso.  
 **Stack:** React, Node.js, TailwindCSS
 
-### 💰 [Finanzor](https://finanzor.vercel.app/)
+### [Finanzor](https://finanzor.vercel.app/)
 App de control de finanzas personales con seguimiento de gastos, ingresos
 y visualización de datos.  
 **Stack:** React, Node.js, Chart.js
 
-### 🔒 [Secure App](https://github.com/paulafc30/secure-app)
+### [Secure App](https://github.com/paulafc30/secure-app)
 Aplicación web para la gestión segura de archivos con roles, permisos y enlaces temporales. Realizada durante las prácticas en Toomba.  
 **Stack:** Laravel, PHP, Blade, Bootstrap, MySQL
 
-### 🏠 [Compiso](https://github.com/paulafc30/compiso)
+### [Compiso](https://github.com/paulafc30/compiso)
 Proyecto colaborativo del TFG para la gestión de pisos compartidos con chat,
 valoraciones y preferencias de convivencia.  
 **Stack:** PHP, MySQL, JavaScript, TailwindCSS
 
-### 🌐 [Portfolio](https://github.com/paulafc30/my_web)
+### [Portfolio](https://github.com/paulafc30/my_web)
 Portfolio personal desplegado en Vercel.  
 **Stack:** React, TailwindCSS, Framer Motion
 
