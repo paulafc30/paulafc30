@@ -69,6 +69,6 @@ Portfolio personal desarrollado con React y TailwindCSS.
 ---
 
 ## 📫 Contacto
-- 🌐 [Portfolio](https://paulafernandez.netlify.app)
-- 💼 [LinkedIn](https://linkedin.com/in/paulafc30)
+- 🌐 [Portfolio](https://paula-fernandez-canas.vercel.app)
+- 💼 [LinkedIn](https://linkedin.com/in/paula-fernandez-canas/)
 - ✉️ **paulafc30@gmail.com**
