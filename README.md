@@ -42,12 +42,12 @@ Actualmente ampliando conocimientos en **IA y Big Data**.
 
 ## 📌 Proyectos destacados
 
-### [Mi Armario](https://mi-armario-iota.vercel.app/)
+### [Mi Armario](https://miss-outfits.ferava.es/)
 Aplicación para gestionar tu armario personal: registro de prendas por categoría,
 combinaciones y estadísticas de uso.  
 **Stack:** React, Node.js, TailwindCSS
 
-### [Finanzor](https://finanzor.vercel.app/)
+### [Finanzor](https://finanzor.ferava.es/)
 App de control de finanzas personales con seguimiento de gastos, ingresos
 y visualización de datos.  
 **Stack:** React, Node.js, Chart.js
